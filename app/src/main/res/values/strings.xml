@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wrong Ramen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="long_description">We live by that philosophy. Obviously, we don\'t take ourselves too seriously. But make no mistake: we\'re serious about ramen. We love it so much, we even support and promote our competitors.
+
+Our ramen isn\'t for everyone. It\'s probably the most unhealthy soup bowl in Manila. If you love it, that makes us glad. If you don\'t, we\'ll be happy to point you to other ramen joints that might better suit your tastes.</string>
+    <string name="tag_line">\"Right ramen is made by Japanese cooks. Wrong ramen is made by idiots who think they\'re better than Japanese cooks.\"</string>
+    <string name="location_description">We\'re a tiny, locally-developed ramen house located in Burgos Circle, Fort Bonifacio. We believe that the best ramen can only be achieved with a lot of honesty, passion and pork fat.</string>
+    <string name="contact_details">If you have any questions or concerns, just talk to us here or send us a private message.</string>
+
+</resources>
