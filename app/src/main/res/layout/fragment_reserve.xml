@@ -50,6 +50,7 @@
                     android:id="@+id/reserve_input_name"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:textColorHint="@android:color/white"
                     app:errorEnabled="true">
 
                     <EditText
@@ -68,6 +69,7 @@
                     android:id="@+id/reserve_input_contact"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:textColorHint="@android:color/white"
                     app:errorEnabled="true">
 
                     <EditText
@@ -86,6 +88,7 @@
                     android:id="@+id/reserve_input_size"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:textColorHint="@android:color/white"
                     app:errorEnabled="true">
 
                     <EditText
@@ -105,6 +108,7 @@
                     android:id="@+id/reserve_input_datetime"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:textColorHint="@android:color/white"
                     app:errorEnabled="true">
 
                     <EditText
