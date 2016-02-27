@@ -2,7 +2,8 @@
 Sample restaurant app. Used Wrong Ramen cause it's a good restaurant
 
 UI only and static contents. Reserve page doesn't send reservation.
-Sample project to get around with design support library.
+
+Sample project to get around with design support library and Kotlin
 
 
 Below are the screenshots:
